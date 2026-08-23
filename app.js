@@ -1,4 +1,4 @@
-const API_URL = "PASTE_GOVERNMENT_APPS_SCRIPT_WEB_APP_URL_HERE";
+const API_URL = "https://script.google.com/macros/s/AKfycby02zbzfCnQZh6y2S5R_Gj79ixmV6QqsrhmNC79zkVbTY0SuoK6KR76yOI8Q0FDnb96Jw/exec";
 
 const state = {
   index: 0,
